@@ -1,0 +1,5 @@
+{
+  "name": "Travel Planner",
+  "description": "Aplikasi perencana perjalanan harian yang didukung AI, membuat itinerary berdasarkan destinasi, durasi, dan minat Anda.",
+  "requestFramePermissions": []
+}
